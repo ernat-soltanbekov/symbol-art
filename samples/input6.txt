@@ -1,0 +1,1 @@
+"Trust me,\nI'm a developer!" thinkertoy --suggest
